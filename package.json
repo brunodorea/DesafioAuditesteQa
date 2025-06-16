@@ -1,0 +1,13 @@
+{
+    "name": "kabum-cypress",
+    "version": "1.0.0",
+    "description": "Automation tests for Kabum website using Cypress",
+    "author": "Bruno Dorea",
+    "scripts": {
+        "test": "npx cypress run"
+    },
+    "devDependencies": {
+        "cypress": "^14.4.1",
+        "mochawesome": "^7.1.3"
+    }
+}
